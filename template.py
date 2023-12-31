@@ -24,12 +24,13 @@ list_of_file=[
     f"{project_name}/pipeline/__init__.py",
     f"{project_name}/utils/__init__.py",
     f"{project_name}/utils/main_utils.py",
+    "reseach/trails.ipynb",
     "templates/index.html",
     "app.py",
     "Dockerfile",
     "requirements.txt",
     "setup.py",
-    "test.py"
+    #"test.py"
 
 
 
